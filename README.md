@@ -124,6 +124,32 @@ const developer = {
 
 ---
 
+---
+
+## `> ABOUT_ME.md`
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   Hei! Gue Adena — Full-Stack Developer dari Indonesia  │
+│                                                         │
+│   Gue suka bangun produk yang beneran dipake orang,     │
+│   bukan cuma bagus di portofolio doang.                 │
+│                                                         │
+│   Dari ngedesain UI yang bikin orang betah, sampe       │
+│   ngebangun API yang kenceng dan scalable — gue         │
+│   handle semuanya.                                      │
+│                                                         │
+│   Kalau lagi ga coding? Gue lagi:                       │
+│   ☕ Minum kopi sambil baca dokumentasi                  │
+│   🎮 Nyalain game terus AFK                             │
+│   🔍 Googling error yang sama buat ke-3 kalinya         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
 <div align="center">
 
 ```
