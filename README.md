@@ -91,7 +91,7 @@ $ cat about.txt
 
 ```javascript
 const developer = {
-  name:        "YOUR_NAME",
+  name:        "Adena Reis Vanrika",
   role:        "Full-Stack Developer",
   location:    "Indonesia 🇮🇩",
   
