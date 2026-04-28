@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+things+that+matter.;console.log(%22Hello%2C+World%22)%3B;%2F%2F+Code+is+poetry.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff41&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=adenarevan&style=for-the-badge&color=00ff41&label=VISITORS" />
 
 </div>
 
