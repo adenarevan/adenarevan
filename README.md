@@ -131,19 +131,18 @@ const developer = {
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   Hei! Gue Adena — Full-Stack Developer dari Indonesia  │
-│                                                         │
-│   Gue suka bangun produk yang beneran dipake orang,     │
-│   bukan cuma bagus di portofolio doang.                 │
-│                                                         │
-│   Dari ngedesain UI yang bikin orang betah, sampe       │
-│   ngebangun API yang kenceng dan scalable — gue         │
-│   handle semuanya.                                      │
-│                                                         │
-│   Kalau lagi ga coding? Gue lagi:                       │
-│   ☕ Minum kopi sambil baca dokumentasi                  │
-│   🎮 Nyalain game terus AFK                             │
-│   🔍 Googling error yang sama buat ke-3 kalinya         │
+│Hey! I'm Adena — a Full-Stack Developer from Indonesia.
+
+I love building products that people actually use,
+not just ones that look good in a portfolio.
+
+From designing user interfaces that keep users engaged,
+to building fast and scalable APIs — I handle it all.
+
+When I’m not coding, I’m usually:
+☕ Drinking coffee while reading documentation
+🎮 Launching a game and going AFK
+🔍 Googling the same error for the third time      │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -155,7 +154,7 @@ const developer = {
 ```
 ╔══════════════════════════════════════════════════════╗
 ║   "First, solve the problem. Then, write the code."  ║
-║                              — John Johnson           ║
+║                              — adenarevan           ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
